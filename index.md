@@ -5,5 +5,3 @@
 <td width="25%">
 <img src="/025Pikachu-Sinnoh.png" width="100%">     
 </td>
-</tr>
-</table>
